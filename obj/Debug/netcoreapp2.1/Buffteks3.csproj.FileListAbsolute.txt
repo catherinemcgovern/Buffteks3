@@ -1,0 +1,11 @@
+C:\Users\Catherine\Desktop\10.1Class\Buffteks3\bin\Debug\netcoreapp2.1\Buffteks3.deps.json
+C:\Users\Catherine\Desktop\10.1Class\Buffteks3\bin\Debug\netcoreapp2.1\Buffteks3.runtimeconfig.json
+C:\Users\Catherine\Desktop\10.1Class\Buffteks3\bin\Debug\netcoreapp2.1\Buffteks3.runtimeconfig.dev.json
+C:\Users\Catherine\Desktop\10.1Class\Buffteks3\bin\Debug\netcoreapp2.1\Buffteks3.dll
+C:\Users\Catherine\Desktop\10.1Class\Buffteks3\bin\Debug\netcoreapp2.1\Buffteks3.pdb
+C:\Users\Catherine\Desktop\10.1Class\Buffteks3\obj\Debug\netcoreapp2.1\Buffteks3.csprojAssemblyReference.cache
+C:\Users\Catherine\Desktop\10.1Class\Buffteks3\obj\Debug\netcoreapp2.1\Buffteks3.csproj.CoreCompileInputs.cache
+C:\Users\Catherine\Desktop\10.1Class\Buffteks3\obj\Debug\netcoreapp2.1\Buffteks3.AssemblyInfoInputs.cache
+C:\Users\Catherine\Desktop\10.1Class\Buffteks3\obj\Debug\netcoreapp2.1\Buffteks3.AssemblyInfo.cs
+C:\Users\Catherine\Desktop\10.1Class\Buffteks3\obj\Debug\netcoreapp2.1\Buffteks3.dll
+C:\Users\Catherine\Desktop\10.1Class\Buffteks3\obj\Debug\netcoreapp2.1\Buffteks3.pdb
